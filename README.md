@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Neon Kod Akışı](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Galaksi Animasyonu](https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif)
 
 ### Ben Kimim?
 Yazılım Test Otomasyon ve Güvenlik meraklısıyım.  
@@ -19,4 +19,4 @@ CTF çözümleri ve küçük araçlar üzerinde çalışıyorum.
 
 ---
 
-> ⚡ Fun Fact: Kodlar gece boyunca neon ışıklarla akıyor! 🌌
+> ⚡ Fun Fact: Kodlarımı yazarken uzaydan ilham alıyorum! 🌌

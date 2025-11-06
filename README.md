@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-![4caf010a1ebec91e98aa46d466e0fe05](https://github.com/user-attachments/assets/e0b277e5-ce03-4bd8-a405-b82cd73a2e44)
+![Hareketli Toplar](https://media.giphy.com/media/3o7TKPj9Tb7qY3zvMQ/giphy.gif)
 
-**emre-mentes/emre-mentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ben Kimim?
+Yazılım Test Otomasyon ve Güvenlik meraklısıyım.  
+CTF çözümleri ve küçük araçlar üzerinde çalışıyorum.  
 
-Here are some ideas to get you started:
+### 🚀 İstatistikler
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emre-mentes&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emre-mentes&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌟 Aktiviteler
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=emre-mentes&theme=radical)
+
+### 📫 İletişim
+- E-posta: mail@ornek.com
+- Telegram / Twitter: @emre-mentes
+
+---
+
+> ⚡ Fun Fact: Kod yazarken toplar da hareket ediyor! 🎯

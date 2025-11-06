@@ -119,4 +119,19 @@ Wenn du über Testing, Technik sprechen oder zusammenarbeiten möchtest:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
 </p>
+<hr>
 
+<!-- Alternatif Stil 1 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph Style 1"/>
+</p>
+
+<!-- Alternatif Stil 2 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Contribution Graph Style 2"/>
+</p>
+
+<!-- Alternatif Stil 3 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Contribution Graph Style 3"/>
+</p>

@@ -60,12 +60,12 @@ Wenn du über Testing, Technik sprechen oder zusammenarbeiten möchtest:
 
 <p align="center">
   <!-- Gmail Badge -->
-  <a href="mailto:deine-email@example.com" target="_blank">
+  <a href="mailto:deine-emreowen57@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/dein-linkedin-id/" target="_blank">
+  <a href="https://www.linkedin.com/in/emrementess/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>

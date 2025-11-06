@@ -32,25 +32,37 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 <!-- Teknoloji İkonları -->
 <p align="center">
   <!-- Java -->
-  <img src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" width="100"/>
+  <img src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" width="80"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Selenium -->
-  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width="80"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- PostgreSQL -->
-  <img src="https://camo.githubusercontent.com/f76ca013b330e2bffb000dfd1f5487432ead1d7c6f489b6051a5ac5853ea4c78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" width="100"/>
+  <img src="https://camo.githubusercontent.com/f76ca013b330e2bffb000dfd1f5487432ead1d7c6f489b6051a5ac5853ea4c78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" width="80"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Postman -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="80"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Intel -->
+  <img src="https://camo.githubusercontent.com/a6a235cd773fa2641204c7fe6eb6dacd9aab2f9e29c88ba577e08d91fe4f204b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39632f496e74656c6c694a5f494445415f49636f6e2e737667" width="80"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Jira -->
+  <img src="https://camo.githubusercontent.com/8436d019b27c1c7e2dba4be1a7d1fe4c9c3993ed7c89998cf0f82a838a43be30/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2d776f72646d61726b2e737667" width="80"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- VS Code -->
+  <img src="https://camo.githubusercontent.com/f39f203ca1defeb47e3505ef9044d3303c038c60de7e67f6c229992602e59128/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" width="80"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Maven -->
+  <img src="https://camo.githubusercontent.com/a6a964a1b3229f3424dd8e91d594c07ddfe22b7f2008ec627999c6b2af0c14ca/68747470733a2f2f6d6176656e2e6170616368652e6f72672f696d616765732f6d6176656e2d6c6f676f2d626c61636b2d6f6e-77686974652e706e67" width="80"/>
 </p>
 
 <hr>

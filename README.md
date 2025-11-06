@@ -13,7 +13,6 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 💬 Wenn du auch für QA und Testautomation brennst, lass uns vernetzen!
 </p>
 
-<hr>
 
 
 <hr>
@@ -47,6 +46,7 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
   </a>
 </p>
 
+<hr>
 
 
 

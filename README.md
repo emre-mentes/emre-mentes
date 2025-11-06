@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400">
-</p>
 
+<img width="849" height="150" alt="header" src="https://github.com/user-attachments/assets/19b28c4f-5dd0-4ea7-9e61-7318e53b1092" />
 
 <p align="center" style="font-size:18px;">
 Hallo! Ich bin <b>Emre</b> – ein leidenschaftlicher <b>Full Stack Test Automation Engineer (SDET)</b>.<br>

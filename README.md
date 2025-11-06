@@ -74,8 +74,8 @@ Wenn du über Testing, Technik sprechen oder zusammenarbeiten möchtest:
 </p>
 
 <p align="center">
-  <!-- Gmail Badge -->
-  <a href="mailto:emreowen57@gmail.com" target="_blank">
+  <!-- Gmail Badge (Gmail Web ile yeni sekmede açılıyor) -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emreowen57@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;

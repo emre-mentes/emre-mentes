@@ -1,22 +1,15 @@
-## Hi there 👋
+### Languages and Tools
 
-![Galaksi Animasyonu](https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif)
-
-### Ben Kimim?
-Yazılım Test Otomasyon ve Güvenlik meraklısıyım.  
-CTF çözümleri ve küçük araçlar üzerinde çalışıyorum.  
-
-### 🚀 İstatistikler
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emre-mentes&show_icons=true&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emre-mentes&layout=compact&theme=dark)
-
-### 🌟 Aktiviteler
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=emre-mentes&theme=dark)
-
-### 📫 İletişim
-- E-posta: mail@ornek.com
-- Telegram / Twitter: @emre-mentes
-
----
-
-> ⚡ Fun Fact: Kodlarımı yazarken uzaydan ilham alıyorum! 🌌
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)

@@ -62,7 +62,7 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
   &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Maven Logo (statik, tıklamaya gerek yok) -->
 <p align="center">
-  <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="80" style="background:white; padding:5px; border-radius:5px;" alt="Maven Logo"/>
+  <img src="https://i.ibb.co/NnFXvF9/maven-white-bg.png" width="80" alt="Maven Logo"/>
 </p>
 
 

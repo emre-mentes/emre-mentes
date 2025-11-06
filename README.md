@@ -103,32 +103,14 @@ Wenn du über Testing, Technik sprechen oder zusammenarbeiten möchtest:
 
 <hr>
 
-<!-- Pac-Man Animasyonu -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
-</p>
-
-<!-- Katkı Grafiği (Snake Animasyon) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
-</p>
-
-<hr>
-
-<!-- Pac-Man Animasyonu -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
-</p>
-<hr>
-<!-- Diğer Stil Kaynakları -->
 <p align="center">
   <!-- Dark Snake Animation -->
-  <a href="https://arnabghosh.hashnode.dev/add-github-dark-snake-animation-readme" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/DarkSnake-Readme-8000FF?style=for-the-badge&logo=github&logoColor=white" alt="Dark Snake Animation"/>
+  <a href="https://arnabghosh.hashnode.dev/add-github-dark-snake-animation-readme" target="_blank">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="200" alt="Dark Snake Animation"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- GitHub Painter -->
-  <a href="https://github.com/mattrltrent/github_painter" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHubPainter-Repo-8000FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Painter"/>
+  <a href="https://github.com/mattrltrent/github_painter" target="_blank">
+    <img src="https://raw.githubusercontent.com/mattrltrent/github_painter/main/screenshot.png" width="200" alt="GitHub Painter"/>
   </a>
 </p>

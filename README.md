@@ -107,3 +107,16 @@ Wenn du über Testing, Technik sprechen oder zusammenarbeiten möchtest:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
 </p>
+
+<!-- Katkı Grafiği (Snake Animasyon) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
+</p>
+
+<hr>
+
+<!-- Pac-Man Animasyonu -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
+</p>
+

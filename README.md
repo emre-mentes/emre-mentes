@@ -67,10 +67,6 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 
 <hr>
 
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
-</p>
 
 <hr>
 <!-- Pac-Man Animasyonu -->
@@ -78,20 +74,6 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
   <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
 </p>
 
-<!-- Alternatif Animasyon 1 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/snake.gif" alt="Snake Animation"/>
-</p>
-
-<!-- Alternatif Animasyon 2 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/github-runner.gif" alt="GitHub Runner Animation"/>
-</p>
-
-<!-- Pac-Man Animasyonu -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
-</p>
 
 <!-- Gmail ve LinkedIn Badge’leri -->
 <p align="center">

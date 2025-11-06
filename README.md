@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--![4caf010a1ebec91e98aa46d466e0fe05](https://github.com/user-attachments/assets/e0b277e5-ce03-4bd8-a405-b82cd73a2e44)
+![4caf010a1ebec91e98aa46d466e0fe05](https://github.com/user-attachments/assets/e0b277e5-ce03-4bd8-a405-b82cd73a2e44)
 
 **emre-mentes/emre-mentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

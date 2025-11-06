@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400">
+</p>
+
 <p align="center" style="font-size:18px;">
 Hallo! Ich bin <b>Emre</b> – ein leidenschaftlicher <b>Full Stack Test Automation Engineer (SDET)</b>.<br>
 Ich kombiniere analytisches Denken mit Kreativität, um Software in allen Bereichen zu testen. 🧠⚙️

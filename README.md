@@ -49,7 +49,6 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 
 
 
-<h1 align="center" style="font-size:36px;">🟡 Pac‑Man Contribution Graph</h1>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
@@ -57,12 +56,9 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 
 <hr>
 
-<h1 align="center" style="font-size:36px;">👻 Pac‑Man Adventure</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
 </p>
 
-<p align="center" style="font-size:18px;">
-Pac‑Man collects commits 🍒 and avoids ghosts 👻 as he navigates your GitHub maze!
-</p>
+

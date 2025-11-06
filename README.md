@@ -1,13 +1,17 @@
+<!-- Header Görseli -->
 <img width="849" height="150" alt="header" src="https://github.com/user-attachments/assets/19b28c4f-5dd0-4ea7-9e61-7318e53b1092" />
 
+<!-- Hareketli Yazı -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=8000FF&center=true&vCenter=true&width=600&height=100&lines=Emre+Mentes;Software+QA+Tester" alt="Welcome" />
 </p>
 
+<!-- QA GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="QA GIF" width="400"/>
 </p>
 
+<!-- Hakkında -->
 <p align="center" style="font-size:18px;">
 Hallo! Ich bin <b>Emre</b> – ein leidenschaftlicher <b>Full Stack Test Automation Engineer (SDET)</b>.<br>
 Ich kombiniere analytisches Denken mit Kreativität, um Software in allen Bereichen zu testen. 🧠⚙️
@@ -25,6 +29,7 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 
 <hr>
 
+<!-- Teknoloji İkonları -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,9 +41,7 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
   <img src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" width="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- PostgreSQL Güncel Logo -->
-  
-  <img src="https://camo.githubusercontent.com/f76ca013b330e2bffb000dfd1f5487432ead1d7c6f489b6051a5ac5853ea4c78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667
-" width="100"/>
+  <img src="https://camo.githubusercontent.com/f76ca013b330e2bffb000dfd1f5487432ead1d7c6f489b6051a5ac5853ea4c78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" width="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,15 +51,19 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 
 <hr>
 
+<!-- Contribution Graph -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
 </p>
 
 <hr>
 
+<!-- Pac-Man Animasyonu -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
 </p>
+
+<!-- Gmail ve LinkedIn Badge’leri -->
 <p align="center">
 📬 <b>Lass uns verbinden!</b><br>
 Wenn du über Testing, Technik sprechen oder zusammenarbeiten möchtest:
@@ -69,7 +76,7 @@ Wenn du über Testing, Technik sprechen oder zusammenarbeiten möchtest:
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/emrementess/" target="_blank">
+  <a href="https://www.linkedin.com/in/emrementess/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>

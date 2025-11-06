@@ -96,21 +96,3 @@ Wenn du über Testing, Technik sprechen oder zusammenarbeiten möchtest:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
-<!-- Katkı Grafiği (Snake Animasyon) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
-</p>
-
-<hr>
-
-<p align="center">
-  <!-- Dark Snake Animation -->
-  <a href="https://arnabghosh.hashnode.dev/add-github-dark-snake-animation-readme" target="_blank">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="200" alt="Dark Snake Animation"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- GitHub Painter -->
-  <a href="https://github.com/mattrltrent/github_painter" target="_blank">
-    <img src="https://raw.githubusercontent.com/mattrltrent/github_painter/main/screenshot.png" width="200" alt="GitHub Painter"/>
-  </a>
-</p>

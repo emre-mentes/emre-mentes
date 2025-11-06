@@ -96,3 +96,14 @@ Wenn du über Testing, Technik sprechen oder zusammenarbeiten möchtest:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
+<!-- Katkı Grafiği (Snake Animasyon) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
+</p>
+
+<hr>
+
+<!-- Pac-Man Animasyonu -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
+</p>

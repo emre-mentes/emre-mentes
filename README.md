@@ -62,8 +62,10 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
   <img src="https://camo.githubusercontent.com/f39f203ca1defeb47e3505ef9044d3303c038c60de7e67f6c229992602e59128/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" width="80"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Maven -->
- <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="80" alt="Maven Logo"/>
-</p>
+<span style="background-color:white; padding:5px; border-radius:5px; display:inline-block;">
+  <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="80" alt="Maven Logo"/>
+</span>
+
 
 <hr>
 

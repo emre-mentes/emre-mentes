@@ -135,3 +135,7 @@ Wenn du über Testing, Technik sprechen oder zusammenarbeiten möchtest:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Contribution Graph Style 3"/>
 </p>
+
+[Add GitHub Dark Snake Animation README](https://arnabghosh.hashnode.dev/add-github-dark-snake-animation-readme)  
+[github_painter by mattrltrent](https://github.com/mattrltrent/github_painter)  
+

@@ -1,46 +1,47 @@
-## Hi there 👋
-
-![Tom jagt Jerry](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
-
----
-
-### 👨‍💻 Über mich
-
-Hallo! Ich bin **Emre**, ein leidenschaftlicher **Full Stack Test Automation Engineer (SDET)**.  
-Ich liebe es, sauberen, effizienten und zuverlässigen Code zu schreiben, um Softwarequalität auf höchstem Niveau sicherzustellen.  
-
-Derzeit nehme ich an einer **Weiterbildung zum Full Stack Automation Engineer** teil,  
-wo ich moderne Technologien wie **Java, Selenium, Postman, Jenkins, Docker** und **SQL** intensiv einsetze.  
-
-Ich interessiere mich besonders für **Testautomatisierung, CI/CD-Pipelines** und **Softwarequalitätssicherung**.  
-Mein Ziel ist es, robuste Testlösungen zu entwickeln, die Teams helfen, schneller und sicherer zu liefern.  
-
-💬 Wenn du dich auch für Testautomatisierung oder QA interessierst, lass uns vernetzen!
+<div align="center">
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100%" alt="Tom & Jerry Running">
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+<h2 align="center">👨‍💻 Über mich</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+Hallo! Ich bin <b>Emre</b> – ein leidenschaftlicher <b>Full Stack Test Automation Engineer (SDET)</b>.<br>
+Ich kombiniere analytisches Denken mit Kreativität, um Software auf Herz und Nieren zu testen. 🧠⚙️<br><br>
+Aktuell nehme ich an einer <b>Weiterbildung zum Full Stack Automation Engineer</b> teil,<br>
+wo ich intensiv mit <b>Java, Selenium, Postman, Jenkins, Docker</b> und <b>SQL</b> arbeite.<br><br>
+Ich liebe es, Testautomatisierungslösungen zu entwickeln, die Effizienz, Qualität und Stabilität fördern.<br>
+💬 Lass uns vernetzen, wenn du auch für QA & Testautomation brennst!
 </p>
 
 ---
 
-### 🟡 Pac-Man Contribution Graph
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-![Pac-Man Graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45" alt="Selenium"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" alt="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" alt="AWS"/>
+</p>
 
 ---
 
-> 🐭💨 *"Keep running toward your goals — even if Tom’s behind you!"* 😆
+<h2 align="center">🟡 Pac-Man Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Pac-Man Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <b>🐭💨 "Chasing bugs like Tom chases Jer

@@ -1,8 +1,7 @@
-<h1 align="center">🎮 Emre Mentes
+<h1 align="center"> Emre Mentes
 
 ---
 
-<h2 align="center">🛠️ Languages and Tools</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>

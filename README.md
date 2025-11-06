@@ -1,5 +1,8 @@
 
 <img width="849" height="150" alt="header" src="https://github.com/user-attachments/assets/19b28c4f-5dd0-4ea7-9e61-7318e53b1092" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Emre+Mentes;Software+QA+Tester" alt="Welcome" />
+</p>
 
 <p align="center" style="font-size:18px;">
 Hallo! Ich bin <b>Emre</b> – ein leidenschaftlicher <b>Full Stack Test Automation Engineer (SDET)</b>.<br>

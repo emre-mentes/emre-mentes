@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Tom und Jerry](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Tom jagt Jerry](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
 ---
 
@@ -32,4 +32,15 @@ Mein Ziel ist es, robuste Testlösungen zu entwickeln, die Teams helfen, schnell
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebser
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+</p>
+
+---
+
+### 🟡 Pac-Man Contribution Graph
+
+![Pac-Man Graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+> 🐭💨 *"Keep running toward your goals — even if Tom’s behind you!"* 😆

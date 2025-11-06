@@ -1,23 +1,17 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" alt="Java Coding Animation">
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="100%" alt="Java Code Animation">
 </div>
 
 ---
 
-<h2 align="center">👨‍💻 Über mich</h2>
+### 👨‍💻 Über mich
 
-<p align="center">
-Hallo! Ich bin <b>Emre</b> – ein leidenschaftlicher <b>Full Stack Test Automation Engineer (SDET)</b>.<br>
-Ich kombiniere analytisches Denken mit Kreativität, um Software auf Herz und Nieren zu testen. 🧠⚙️<br><br>
-Aktuell nehme ich an einer <b>Weiterbildung zum Full Stack Automation Engineer</b> teil,<br>
-wo ich intensiv mit <b>Java, Selenium, Postman, Jenkins, Docker</b> und <b>SQL</b> arbeite.<br><br>
-Ich liebe es, Testautomatisierungslösungen zu entwickeln, die Effizienz, Qualität und Stabilität fördern.<br>
-💬 Lass uns vernetzen, wenn du auch für QA & Testautomation brennst!
-</p>
+Hallo! Ich bin **Emre**, ein leidenschaftlicher **Full Stack Test Automation Engineer (SDET)**.<br>
+Ich liebe es, sauberen, effizienten Java-Code zu schreiben und automatisierte Tests zu entwickeln.
 
 ---
 
-<h2 align="center">🛠️ Languages & Tools</h2>
+### 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
@@ -25,24 +19,14 @@ Ich liebe es, Testautomatisierungslösungen zu entwickeln, die Effizienz, Qualit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
 </p>
 
 ---
 
-<h2 align="center">🟡 Pac-Man Contribution Graph</h2>
+### 🟡 Pac-Man Contribution Graph
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Pac-Man Snake Animation"/>
 </p>
 
----
-
-<p align="center">
-  <b>⚡ "Coding in Java — testing in style!" 💡</b>
-</p>
+> ⚡ "Coding in Java — testing in style!" 💡

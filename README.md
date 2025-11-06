@@ -73,6 +73,20 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 </p>
 
 <hr>
+<!-- Pac-Man Animasyonu -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
+</p>
+
+<!-- Alternatif Animasyon 1 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/snake.gif" alt="Snake Animation"/>
+</p>
+
+<!-- Alternatif Animasyon 2 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/github-runner.gif" alt="GitHub Runner Animation"/>
+</p>
 
 <!-- Pac-Man Animasyonu -->
 <p align="center">

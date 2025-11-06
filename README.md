@@ -120,22 +120,15 @@ Wenn du über Testing, Technik sprechen oder zusammenarbeiten möchtest:
   <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
 </p>
 <hr>
-
-<!-- Alternatif Stil 1 -->
+<!-- Diğer Stil Kaynakları -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph Style 1"/>
+  <!-- Dark Snake Animation -->
+  <a href="https://arnabghosh.hashnode.dev/add-github-dark-snake-animation-readme" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DarkSnake-Readme-8000FF?style=for-the-badge&logo=github&logoColor=white" alt="Dark Snake Animation"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- GitHub Painter -->
+  <a href="https://github.com/mattrltrent/github_painter" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHubPainter-Repo-8000FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Painter"/>
+  </a>
 </p>
-
-<!-- Alternatif Stil 2 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Contribution Graph Style 2"/>
-</p>
-
-<!-- Alternatif Stil 3 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Contribution Graph Style 3"/>
-</p>
-
-[Add GitHub Dark Snake Animation README](https://arnabghosh.hashnode.dev/add-github-dark-snake-animation-readme)  
-[github_painter by mattrltrent](https://github.com/mattrltrent/github_painter)  
-

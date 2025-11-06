@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Pinpon Topları](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R0Y3YzOWV1YWt2bWN6cTh6dnBlbzh5eXhscjVra3l1b3ptb3RjMiZqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BzzbA1Eijb5aI/giphy.gif)
+![Tom ve Jerry](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
@@ -19,4 +19,10 @@
 
 ---
 
-### 🟡 Pac-Man
+### 🟡 Pac-Man Contribution Graph
+
+![Pac-Man Graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+> 🐭💨 *"Keep running toward your goals —*

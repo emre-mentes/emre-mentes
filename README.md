@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100%" alt="Tom & Jerry Running">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation">
 </div>
 
 ---
@@ -44,4 +44,5 @@ Ich liebe es, Testautomatisierungslösungen zu entwickeln, die Effizienz, Qualit
 ---
 
 <p align="center">
-  <b>🐭💨 "Chasing bugs like Tom chases Jer
+  <b>⚡ "Testing like a developer, thinking like an engineer." 💡</b>
+</p>

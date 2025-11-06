@@ -1,4 +1,4 @@
-<h1 align="center">🎮 My Pac‑Man GitHub Profile</h1>
+<h1 align="center">🎮 Emre Mentes
 
 ---
 

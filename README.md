@@ -53,3 +53,19 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
 </p>
+<p align="center">
+📬 <b>Lass uns verbinden!</b><br>
+Wenn du über Testing, Technik sprechen oder zusammenarbeiten möchtest:
+</p>
+
+<p align="center">
+  <!-- Gmail Badge -->
+  <a href="mailto:deine-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/dein-linkedin-id/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>

@@ -1,8 +1,5 @@
-
 <img width="849" height="150" alt="header" src="https://github.com/user-attachments/assets/19b28c4f-5dd0-4ea7-9e61-7318e53b1092" />
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=8000FF&center=true&vCenter=true&width=600&height=100&lines=Emre+Mentes;Software+QA+Tester" alt="Welcome" />
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=8000FF&center=true&vCenter=true&width=600&height=100&lines=Emre+Mentes;Software+QA+Tester" alt="Welcome" />
 </p>
@@ -26,9 +23,8 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 💬 Wenn du auch für QA und Testautomation brennst, lass uns vernetzen!
 </p>
 
-
-
 <hr>
+
 <p align="center">
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -61,17 +57,12 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 
 <hr>
 
-
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
 </p>
 
 <hr>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
 </p>
-
-

@@ -56,10 +56,10 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 
 <hr>
 
-<!-- Katkı Grafiği (Snake Animasyon) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" />
 </p>
+
 
 <hr>
 
@@ -81,7 +81,3 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
   <!-- GitHub Analytics Badge -->
   <img src="https://komarev.com/ghpvc/?username=emre-mentes&color=blue" alt="Profile Views">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" />
-</p>
-

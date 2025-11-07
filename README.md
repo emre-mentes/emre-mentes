@@ -11,14 +11,15 @@
 </p>
 
 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="User GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake GIF"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Analytics Badge -->
-  <img src="https://komarev.com/ghpvc/?username=emre-mentes&color=blue" alt="Profile Views">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emre-mentes&show_icons=true&theme=blue)
 </p>
+
 
 
 <!-- Hakkında -->
@@ -83,4 +84,8 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
   <a href="https://www.linkedin.com/in/emrementess/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+</p>
+<p align="center">
+  <!-- GitHub Analytics Badge -->
+  <img src="https://komarev.com/ghpvc/?username=emre-mentes&color=blue" alt="Profile Views">
 </p>

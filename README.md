@@ -52,6 +52,15 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 
 <!-- TestNG -->
 <img src="https://raw.githubusercontent.com/wso2/testng-logo/main/testng-logo.png" width="80" alt="TestNG Logo"/>
+<!-- TestNG (alternatif 1 - en stabil) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Testng.png" width="80" alt="TestNG Logo"/>
+
+<!-- TestNG (alternatif 2 - beyaz arka planlı, yüksek çözünürlük) -->
+ <img src="https://avatars.githubusercontent.com/u/2682947?s=200&v=4" width="80" alt="TestNG Logo"/> 
+
+<!-- TestNG (alternatif 3 - base64 yedek, her yerde görünür) -->
+<img src="https://api.iconify.design/simple-icons:testng.svg" width="80" alt="TestNG Logo"/> 
+
 
 
 

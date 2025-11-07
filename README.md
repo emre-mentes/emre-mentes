@@ -1,17 +1,13 @@
 <!-- Header Görseli -->
 <img width="849" height="150" alt="header" src="https://github.com/user-attachments/assets/19b28c4f-5dd0-4ea7-9e61-7318e53b1092" />
 
-<!-- Hareketli Yazı -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=8000FF&center=true&vCenter=true&width=600&height=100&lines=Emre+Mentes;Software+QA+Tester" alt="Welcome" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=8000FF&center=true&vCenter=true&width=600&height=100&lines=Emre+Mentes" alt="Emre Mentes" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=8000FF&center=true&vCenter=true&width=600&height=60&lines=Software+QA+Engineer" alt="Software QA Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=8000FF&center=true&vCenter=true&width=600&height=60&lines=Software+QA+Engineer" alt="Software QA Engineer" />
 </p>
 
 

@@ -85,4 +85,3 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emre-mentes&theme=react-dark)
 </p>
 
-

@@ -40,29 +40,12 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80"/>
-<img src="https://raw.githubusercontent.com/emrementess/emrementess/main/assets/maven.png" width="80" alt="Maven Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="80" alt="Cucumber Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="80" alt="Jenkins Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="80" alt="Maven Logo"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Apache_Maven_logo.svg" width="80" alt="Maven Logo"/>
 <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="80" alt="Maven Logo"/>
 <!-- JUnit -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="80" alt="JUnit Logo"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- TestNG -->
-<img src="https://raw.githubusercontent.com/wso2/testng-logo/main/testng-logo.png" width="80" alt="TestNG Logo"/>
-<!-- TestNG (alternatif 1 - en stabil) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Testng.png" width="80" alt="TestNG Logo"/>
-
-<!-- TestNG (alternatif 2 - beyaz arka planlı, yüksek çözünürlük) -->
- <img src="https://avatars.githubusercontent.com/u/2682947?s=200&v=4" width="80" alt="TestNG Logo"/> 
-
-<!-- TestNG (alternatif 3 - base64 yedek, her yerde görünür) -->
-<img src="https://api.iconify.design/simple-icons:testng.svg" width="80" alt="TestNG Logo"/> 
-
-
-
 
 </p>
 

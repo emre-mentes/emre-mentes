@@ -40,7 +40,7 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80"/>
-<img src="https://raw.githubusercontent.com/emreementess/emreementess/main/assets/maven.png" width="80" alt="Maven Logo"/>
+<img src="https://raw.githubusercontent.com/emrementess/emrementess/main/assets/maven.png" width="80" alt="Maven Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="80" alt="Cucumber Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="80" alt="Jenkins Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="80" alt="Maven Logo"/>

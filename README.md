@@ -40,8 +40,8 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80" alt="IntelliJ" title="IntelliJ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" alt="VS Code" title="VS Code"/>
-  <img src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200" width="80" alt="GitHub Octocat" title="GitHub"/>
-  <img src="https://camo.githubusercontent.com/c142d84ec929e8f06673ccd079c814d7a9971cf4334810fea06694c7135ad8d0/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351467073774b716c776578315574594f48543663574956734a3364516645675f5f6c465126757371703d434155" width="80" alt="Encrypted Icon" title="Encrypted Icon"/>
+  <img src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200" width="80" alt="GitHub Octocat" title="Swagger"/>
+  <img src="https://camo.githubusercontent.com/c142d84ec929e8f06673ccd079c814d7a9971cf4334810fea06694c7135ad8d0/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351467073774b716c776578315574594f48543663574956734a3364516645675f5f6c465126757371703d434155" width="80" alt="Encrypted Icon" title=""/>
 </p>
 
 

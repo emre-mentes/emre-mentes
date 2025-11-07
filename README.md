@@ -56,11 +56,6 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 </p>
 
 <hr>
-<!-- Pac-Man Animasyonu -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/pacman.gif" alt="Pac-Man Maze Animation"/>
-</p>
-
 
 <!-- Gmail ve LinkedIn Badge’leri -->
 <p align="center">

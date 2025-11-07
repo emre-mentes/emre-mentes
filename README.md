@@ -46,6 +46,12 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="80" alt="Maven Logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Apache_Maven_logo.svg" width="80" alt="Maven Logo"/>
 <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="80" alt="Maven Logo"/>
+<!-- JUnit -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="80" alt="JUnit Logo"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- TestNG -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TestNG_Logo.svg/1200px-TestNG_Logo.svg.png" width="80" alt="TestNG Logo"/>
+
 
 
 

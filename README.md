@@ -64,7 +64,6 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 <!-- Gmail ve LinkedIn Badge’leri -->
 <p align="center">
 📬 <b>Lass uns verbinden!</b><br>
-Wenn du über Testing, Technik sprechen oder zusammenarbeiten möchtest:
 </p>
 
 <p align="center">

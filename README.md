@@ -31,6 +31,25 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 
 <!-- Teknoloji Logoları -->
 <p align="center">
+
+  <!-- Ek Teknoloji Logoları -->
+<p align="center">
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="80" alt="CSS Logo"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="80" alt="HTML Logo"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- GitHub Octocat -->
+  <img src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200" width="80" alt="GitHub Octocat"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Encrypted Lock Icon -->
+  <img src="https://camo.githubusercontent.com/c142d84ec929e8f06673ccd079c814d7a9971cf4334810fea06694c7135ad8d0/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351467073774b716c776578315574594f48543663574956734a3364516645675f5f6c465126757371703d434155" width="80" alt="Encrypted Icon"/>
+</p>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80"/>
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width="80" alt="Selenium Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="80"/>
@@ -47,6 +66,23 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 <!-- JUnit -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="80" alt="JUnit Logo"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="80" alt="CSS Logo"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="80" alt="HTML Logo"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- GitHub Octocat -->
+  <img src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200" width="80" alt="GitHub Octocat"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Encrypted Lock Icon -->
+  <img src="https://camo.githubusercontent.com/c142d84ec929e8f06673ccd079c814d7a9971cf4334810fea06694c7135ad8d0/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351467073774b716c776578315574594f48543663574956734a3364516645675f5f6c465126757371703d434155" width="80" alt="Encrypted Icon"/>
+</p>
+
 
 </p>
 

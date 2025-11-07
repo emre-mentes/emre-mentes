@@ -28,6 +28,8 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 
 <!-- Teknoloji Logoları -->
 <p align="center">
+  ![TestNG](https://www.vectorlogo.zone/logos/testng/testng-icon.svg)
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" alt="Java" title="Java"/>
   <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width="80" alt="Selenium" title="Selenium"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="80" alt="Postman" title="Postman"/>

@@ -11,6 +11,16 @@
 </p>
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="User GIF"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Analytics Badge -->
+  <img src="https://komarev.com/ghpvc/?username=emre-mentes&color=blue" alt="Profile Views">
+</p>
+
+
 <!-- Hakkında -->
 <p align="center" style="font-size:30px;">
 Hallo! Ich bin <b>Emre</b> – ein leidenschaftlicher <b>Full Stack Test Automation Engineer (SDET)</b>.<br>

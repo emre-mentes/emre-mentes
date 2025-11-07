@@ -31,33 +31,19 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 
 <!-- Teknoloji Logoları -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" width="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/f39f203ca1defeb47e3505ef9044d3303c038c60de7e67f6c229992602e59128/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" width="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/a6a235cd773fa2641204c7fe6eb6dacd9aab2f9e29c88ba577e08d91fe4f204b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39632f496e74656c6c694a5f494445415f49636f6e2e737667" width="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/8436d019b27c1c7e2dba4be1a7d1fe4c9c3993ed7c89998cf0f82a838a43be30/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a697261-6f726967696e616c2d776f72646d61726b2e737667" width="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/f39f203ca1defeb47e3505ef9044d3303c038c60de7e67f6c229992602e59128/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" width="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/KULLANICI_ADIN/REPO_ADI/main/assets/maven.png" width="80" alt="Maven Logo"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- 2. Eklenen Logo -->
-  <img src="URL_2_LOGO" width="80" alt="2. Logo"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- 3. Eklenen Logo -->
-  <img src="URL_3_LOGO" width="80" alt="3. Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80"/>
+<img src="https://raw.githubusercontent.com/emreementess/emreementess/main/assets/maven.png" width="80" alt="Maven Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="80" alt="Cucumber Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="80" alt="Jenkins Logo"/>
+
 </p>
 
 <hr>

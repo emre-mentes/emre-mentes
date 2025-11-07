@@ -49,9 +49,9 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 <!-- JUnit -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="80" alt="JUnit Logo"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<!-- TestNG -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TestNG_Logo.svg/1200px-TestNG_Logo.svg.png" width="80" alt="TestNG Logo"/>
 
+<!-- TestNG -->
+<img src="https://raw.githubusercontent.com/wso2/testng-logo/main/testng-logo.png" width="80" alt="TestNG Logo"/>
 
 
 

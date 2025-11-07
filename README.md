@@ -81,23 +81,8 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
   <!-- GitHub Analytics Badge -->
   <img src="https://komarev.com/ghpvc/?username=emre-mentes&color=blue" alt="Profile Views">
 </p>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake Animation"/>
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emre-mentes&theme=react-dark)
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-setInterval(update, 200);
-</script>
-</body>
-</html>

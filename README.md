@@ -29,21 +29,22 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 
 <!-- Teknoloji Logoları -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width="80" alt="Selenium"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="80" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="80" alt="CSS Logo"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="80" alt="HTML Logo"/>
-  <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="80" alt="Maven"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="80" alt="Cucumber"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="80" alt="JUnit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80" alt="IntelliJ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" alt="VS Code"/>
-  <img src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200" width="80" alt="GitHub Octocat"/>
-  <img src="https://camo.githubusercontent.com/c142d84ec929e8f06673ccd079c814d7a9971cf4334810fea06694c7135ad8d0/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351467073774b716c776578315574594f48543663574956734a3364516645675f5f6c465126757371703d434155" width="80" alt="Encrypted Icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" alt="Java" title="Java"/>
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width="80" alt="Selenium" title="Selenium"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="80" alt="Postman" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="80" alt="CSS Logo" title="CSS"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="80" alt="HTML Logo" title="HTML"/>
+  <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="80" alt="Maven" title="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="80" alt="Cucumber" title="Cucumber"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="80" alt="JUnit" title="JUnit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80" alt="IntelliJ" title="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" alt="VS Code" title="VS Code"/>
+  <img src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200" width="80" alt="GitHub Octocat" title="GitHub"/>
+  <img src="https://camo.githubusercontent.com/c142d84ec929e8f06673ccd079c814d7a9971cf4334810fea06694c7135ad8d0/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351467073774b716c776578315574594f48543663574956734a3364516645675f5f6c465126757371703d434155" width="80" alt="Encrypted Icon" title="Encrypted Icon"/>
 </p>
+
 
 <hr>
 

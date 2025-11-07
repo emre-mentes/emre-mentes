@@ -81,3 +81,92 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
   <!-- GitHub Analytics Badge -->
   <img src="https://komarev.com/ghpvc/?username=emre-mentes&color=blue" alt="Profile Views">
 </p>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>GitHub Activity Snake Animation</title>
+<style>
+  body {
+    background-color: #0d1117;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  canvas {
+    background-color: #161b22;
+    border: 2px solid #30363d;
+    border-radius: 10px;
+  }
+</style>
+</head>
+<body>
+<canvas id="snakeCanvas" width="500" height="500"></canvas>
+
+<script>
+const canvas = document.getElementById('snakeCanvas');
+const ctx = canvas.getContext('2d');
+
+const gridSize = 20;
+const tileCount = canvas.width / gridSize;
+
+let snake = [{x:10, y:10}];
+let velocity = {x:1, y:0};
+let tailLength = 5;
+
+// Örnek commit aktiviteleri (rastgele yeşil bloklar)
+const commitActivity = Array(tileCount).fill(0).map(() => Array(tileCount).fill(0));
+for(let i=0; i<100; i++){
+  const x = Math.floor(Math.random()*tileCount);
+  const y = Math.floor(Math.random()*tileCount);
+  commitActivity[x][y] = 1;
+}
+
+function draw() {
+  ctx.fillStyle = '#161b22';
+  ctx.fillRect(0,0,canvas.width, canvas.height);
+
+  // Yılan hareketi
+  let head = {x: snake[0].x + velocity.x, y: snake[0].y + velocity.y};
+  if(head.x < 0) head.x = tileCount-1;
+  if(head.x >= tileCount) head.x = 0;
+  if(head.y < 0) head.y = tileCount-1;
+  if(head.y >= tileCount) head.y = 0;
+
+  snake.unshift(head);
+  while(snake.length > tailLength) snake.pop();
+
+  // Commit blokları
+  for(let x=0; x<tileCount; x++){
+    for(let y=0; y<tileCount; y++){
+      if(commitActivity[x][y] === 1){
+        ctx.fillStyle = '#0aff99';
+        ctx.fillRect(x*gridSize, y*gridSize, gridSize-2, gridSize-2);
+      }
+    }
+  }
+
+  // Yılan
+  ctx.fillStyle = '#ffcc00';
+  snake.forEach(segment => {
+    ctx.fillRect(segment.x*gridSize, segment.y*gridSize, gridSize-2, gridSize-2);
+  });
+}
+
+function update() {
+  // Rastgele yön değişimi (demo için)
+  const rand = Math.random();
+  if(rand < 0.25) {velocity = {x:1, y:0};}
+  else if(rand < 0.5) {velocity = {x:-1, y:0};}
+  else if(rand < 0.75) {velocity = {x:0, y:1};}
+  else {velocity = {x:0, y:-1};}
+
+  draw();
+}
+
+setInterval(update, 200);
+</script>
+</body>
+</html>

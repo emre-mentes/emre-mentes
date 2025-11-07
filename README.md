@@ -44,6 +44,8 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="80" alt="Cucumber Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="80" alt="Jenkins Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="80" alt="Maven Logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Apache_Maven_logo.svg" width="80" alt="Maven Logo"/>
+
 
 
 </p>

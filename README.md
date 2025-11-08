@@ -12,8 +12,6 @@
 </p>
 
 
-
-
 <!-- Hakkında -->
 <p align="center" style="font-size:30px;">
 Hallo! Ich bin <b>Emre</b> – ein leidenschaftlicher <b>Full Stack Test Automation Engineer (SDET)</b>.<br>
@@ -21,16 +19,19 @@ Ich kombiniere analytisches Denken mit Kreativität, um Software in allen Bereic
 </p>
 
 <p align="center" style="font-size:30px;">
-Derzeit nehme ich an einer <b>Weiterbildung zum Full Stack Automation Engineer</b> teil,<br>
-wo ich intensiv mit <b>Java, Selenium, Postman</b> und <b>SQL</b> arbeite.
+Ich habe meine <b>Weiterbildung zum Full Stack Automation Engineer</b> erfolgreich abgeschlossen und<br>
+arbeite intensiv mit <b>Java, Selenium, Postman</b> und <b>SQL</b>.<br>
+Derzeit lebe ich in Deutschland. 🇩🇪
 </p>
 
 <p align="center" style="font-size:30px;">
+Ich beschäftige mich intensiv mit <b>API-Tests, E2E-Tests, manuellen und automatisierten Tests</b>.<br>
 Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizienz, Qualität und Stabilität fördern.<br>
 💬 Wenn du auch für QA und Testautomation brennst, lass uns vernetzen!
 </p>
 
 <hr>
+
 
 <!-- Teknoloji Logoları -->
 <p align="center">

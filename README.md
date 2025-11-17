@@ -39,4 +39,55 @@ Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizien
 <!-- Testing Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="70" title="JUnit"/>
 <img src="https://raw.githubusercontent.com/emre-mentes/emre-mentes/main/testng.webp" width="70" title="TestNG"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="70" title="Cucumber"/>
+
+<!-- Database & Build -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" title="PostgreSQL"/>
+<img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="80" title="Maven"/>
+
+<!-- Version Control & IDE -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="70" title="IntelliJ IDEA"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" title="VS Code"/>
+
+<!-- Web -->
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="70" title="HTML"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="70" title="CSS"/>
+
+</p>
+
+---
+
+<!-- ================= CONTRIBUTIONS ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
+<!-- ================= CONTACT ================= -->
+<h2 align="center">📬 Lass uns verbinden!</h2>
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emreowen57@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/emrementess/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
+
+<p align="center">
+  🌐 <i>Portfolio-Website (coming soon)</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emre-mentes&color=blue" alt="Profile Views">
+</p>
+
+---
+
+<!-- ================= FOOTER GIF ================= -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="70%" alt="Tech Animation GIF"/>
+</p>

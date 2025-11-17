@@ -44,6 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="80" alt="Cucumber" title="Cucumber"/>
   <img src="https://raw.githubusercontent.com/emre-mentes/emre-mentes/main/testng.webp" width="80" alt="TestNG" title="TestNG"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="80" alt="JUnit" title="JUnit"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="80" alt="Playwright" title="Playwright"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80" alt="IntelliJ" title="IntelliJ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" alt="VS Code" title="VS Code"/>

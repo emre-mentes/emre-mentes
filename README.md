@@ -34,8 +34,10 @@
 
 <!-- Teknoloji Logoları -->
 <p align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" alt="Java" title="Java"/>
   <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png" width="80" alt="Selenium" title="Selenium"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="80" alt="Jira" title="Jira"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="80" alt="Postman" title="Postman"/>
   <img src="https://brandlogos.net/wp-content/uploads/2023/09/appium-logo_brandlogos.net_isrtc.png" width="100" height="100" alt="Appium" title="Appium" style="vertical-align:middle;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" alt="PostgreSQL" title="PostgreSQL"/>

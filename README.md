@@ -46,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="80" alt="CSS Logo" title="CSS"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="80" alt="HTML Logo" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" alt="JavaScript" title="JavaScript"/>
   <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="140" alt="Maven" title="Maven"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="80" alt="Jenkins" title="Jenkins"/>
   <img src="https://logo.svgcdn.com/logos/cypress.svg" width="120" alt="Cypress" title="Cypress"/> 
@@ -58,8 +59,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="80" alt="IntelliJ" title="IntelliJ"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" alt="VS Code" title="VS Code"/>
   <img src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200" width="80" alt="GitHub Octocat" title="Swagger"/>
-<img src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png" width="80" alt="API" title="API"/>
-<img src="https://automatenow.io/wp-content/uploads/2023/06/restassured-logo.jpg" width="120" alt="REST Assured" title="REST Assured"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png" width="80" alt="API" title="API"/>
+  <img src="https://automatenow.io/wp-content/uploads/2023/06/restassured-logo.jpg" width="120" alt="REST Assured" title="REST Assured"/>
 
 </p>
 

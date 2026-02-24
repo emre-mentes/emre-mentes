@@ -20,7 +20,7 @@
 
 <p align="center" style="font-size:30px;">
   Ich habe meine <b>Weiterbildung zum Full Stack Automation Engineer</b> erfolgreich abgeschlossen und<br>
-  arbeite intensiv mit <b>Java, Selenium, Postman</b> und <b>SQL</b>.<br>
+  arbeite intensiv mit <b>Java, TxpeScript, Selenium, Playwright Postman</b> und <b>SQL</b>.<br>
   Derzeit lebe ich in Deutschland. 🇩🇪
 </p>
 

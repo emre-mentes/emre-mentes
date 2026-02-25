@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=8000FF&center=true&vCenter=true&width=600&height=60&lines=Emre+Mentes" alt="Emre Mentes" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=8000FF&center=true&vCenter=true&width=600&height=50&lines=Software+QA+Engineer" alt="Software QA Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=Emre+Mentes" alt="Emre Mentes" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=142B8F&center=true&vCenter=true&width=600&height=50&lines=Software+QA+Engineer" alt="Software QA Engineer" />
 </p>
 
 <p align="center">

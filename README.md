@@ -1,36 +1,10 @@
-<!-- Header Görseli -->
-<p align="center">
-  <img width="849" height="150" alt="header" src="https://github.com/user-attachments/assets/19b28c4f-5dd0-4ea7-9e61-7318e53b1092" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=Emre+Mentes" alt="Emre Mentes" /><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=142B8F&center=true&vCenter=true&width=600&height=50&lines=Software+QA+Engineer" alt="Software QA Engineer" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake GIF"/>
-</p>
 
-<!-- Hakkında -->
-<p align="center" style="font-size:30px;">
-  Hallo! Ich bin <b>Emre</b> – ein leidenschaftlicher <b>Full Stack Test Automation Engineer (SDET)</b>.<br>
-  Ich kombiniere analytisches Denken mit Kreativität, um Software in allen Bereichen zu testen. 🧠⚙️
-</p>
-
-<p align="center" style="font-size:30px;">
-  Ich habe meine <b>Weiterbildung zum Full Stack Automation Engineer</b> erfolgreich abgeschlossen und<br>
-  arbeite intensiv mit <b>Java, TypeScript, Selenium, Playwright Postman</b> und <b>SQL</b>.<br>
-  Derzeit lebe ich in Deutschland. 🇩🇪
-</p>
-
-<p align="center" style="font-size:30px;">
-  Ich beschäftige mich intensiv mit <b>API-Tests, E2E-Tests, manuellen und automatisierten Tests</b>.<br>
-  Ich entwickle leidenschaftlich gerne Testautomatisierungslösungen, die Effizienz, Qualität und Stabilität fördern.<br>
-  💬 Wenn du auch für QA und Testautomation brennst, lass uns vernetzen!
-</p>
-
-<hr>
 
 <!-- Teknoloji Logoları -->
 <p align="center">
@@ -66,9 +40,6 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" />
-</p>
 
 <hr>
 
